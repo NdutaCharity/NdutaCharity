@@ -12,7 +12,7 @@
         🛠 Python and R
         🛠 Earth Observation
         
-        Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics).
+        Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/).
 
    ### 🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
  
