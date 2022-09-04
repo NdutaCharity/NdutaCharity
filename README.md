@@ -12,7 +12,7 @@
           🛠 Python and R
           🛠 Earth Observation
           
-    ## 💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+   💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
         
         
    ### Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/) skills here.
