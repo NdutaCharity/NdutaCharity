@@ -6,11 +6,11 @@
 
   ## ⚙ Currently levelling up my skills in:
 
-**        🛠 SQL for queries
+          🛠 SQL for queries
           🛠 Excel
           🛠 Power BI, Tableau
           🛠 Python and R
-          🛠 Earth Observation**
+          🛠 Earth Observation
           
         💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
         
