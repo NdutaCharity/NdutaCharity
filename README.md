@@ -6,7 +6,8 @@
  
    ### 📫 How to reach me: ndutacharityn@gmail.com
                            
-
+   ### 💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+   
    ## ⚙ Currently levelling up my skills in:
 
           🛠 SQL for queries
@@ -15,7 +16,7 @@
           🛠 Python and R
           🛠 Earth Observation
           
-   💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+   
         
         
    ### Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/) skills here.
