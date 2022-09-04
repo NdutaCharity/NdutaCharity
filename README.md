@@ -1,23 +1,19 @@
   # Hi there 👋
-    ### Charity Nduta here :smile:
+   ### Charity Nduta here :smile:
      Charity is a geospatial engineer and a data analyst.
                             
                             🌱
 
 ⚙ Currently levelling up my skills in:
 
-        🛠 SQL for queries
-        
-        🛠 Excel
-        
-        🛠 Power BI, Tableau
-        
-        🛠 Python and R
-        
-        🛠 Earth Observation
+        🛠 __SQL for queries__
+        🛠 __Excel__
+        🛠 __Power BI, Tableau__
+        🛠 __Python and R__
+        🛠 __Earth Observation__
         
 
- I’m looking to collaborate on Geospatial data analysis, Earth Observation and Data Analytics.
+ 🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
  
  
  📫 How to reach me: ndutacharityn@gmail.com
@@ -30,22 +26,8 @@
 
   # Languages and Tools:
   
-GIS ENVIRONMENT
-
-    QGIS, ArcGIS 10* versions, ArcGIS Pro
-
-REMOTE SENSING
-
-    Google Earth Engine, Erdas IMAGINE, ENVI
-
-PROGRAMMING 
-
-      Python, Pandas, NumPy, Git, GitHub, Postgres, R
-      
-DATA ANALYSIS
-
-      Excel, SQL, PowerBi
-
-GRAPHICS
-
-      Figma, Canva and Blender
+GIS ENVIRONMENT : QGIS, ArcGIS 10* versions, ArcGIS Pro
+REMOTE SENSING : Google Earth Engine, Erdas IMAGINE, ENVI
+PROGRAMMING : Python, Pandas, NumPy, Git, GitHub, Postgres, R
+DATA ANALYSIS : Excel, SQL, PowerBi
+GRAPHICS : Figma, Canva and Blender
