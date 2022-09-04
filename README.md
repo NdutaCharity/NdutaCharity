@@ -1,14 +1,13 @@
   # Hi there 👋
-      ### Charity Nduta here :smile:
+   ### Charity Nduta here :smile:
      Charity is a geospatial engineer and a data analyst.
      
-      ### 🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
+   ### 🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
  
- 
-      ### 📫 How to reach me: ndutacharityn@gmail.com
+   ### 📫 How to reach me: ndutacharityn@gmail.com
                            
 
-    ## ⚙ Currently levelling up my skills in:
+   ## ⚙ Currently levelling up my skills in:
 
           🛠 SQL for queries
           🛠 Excel
@@ -27,7 +26,6 @@
       I love me some fiction, throw in some Stephen King or Dean  Koontz and hello best friend.
       Lately, I am invested in African authored books._
  
-
 
   ## Languages and Tools:
   
