@@ -2,7 +2,7 @@
    ### Charity Nduta here :smile:
      Charity is a geospatial engineer and a data analyst.
      
-   ### *🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
+   ### -🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
  
    ### *📫 How to reach me: ndutacharityn@gmail.com
                            
