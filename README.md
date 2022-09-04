@@ -6,11 +6,11 @@
 
 ⚙ Currently levelling up my skills in:
 
-        🛠 __SQL for queries__
-        🛠 __Excel__
-        🛠 __Power BI, Tableau__
-        🛠 __Python and R__
-        🛠 __Earth Observation__
+        🛠 SQL for queries
+        🛠 Excel
+        🛠 Power BI, Tableau
+        🛠 Python and R
+        🛠 Earth Observation
         
 
  🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
