@@ -18,7 +18,7 @@
  
     📫 How to reach me: ndutacharityn@gmail.com
  
-      When not dealing with data and maps (which I really enjoy), I either hiking, being in nature or reading.
+      When not dealing with data and maps (which I really enjoy), I am either hiking, being in nature or reading.
       I love me some fiction, throw in some Stephen King or Dean  Koontz and hello best friend.
       Lately, I am invested in African authored books.
  
