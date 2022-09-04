@@ -6,11 +6,15 @@
 
   ## ⚙ Currently levelling up my skills in:
 
-        🛠 SQL for queries
-        🛠 Excel
-        🛠 Power BI, Tableau
-        🛠 Python and R
-        🛠 Earth Observation
+**        🛠 SQL for queries
+          🛠 Excel
+          🛠 Power BI, Tableau
+          🛠 Python and R
+          🛠 Earth Observation**
+          
+        💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+        
+        
    ### Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/) skills here.
 
    ### 🤝 I’m looking to collaborate on __Geospatial data analysis, Earth Observation and Data Analytics__.
@@ -18,9 +22,9 @@
  
    ### 📫 How to reach me: ndutacharityn@gmail.com
  
-      When not dealing with data and maps (which I really enjoy), I am either hiking, being in nature or reading.
+   **Fun Fact** : _When not dealing with data and maps (which I really enjoy), I am either hiking, being in nature or reading.
       I love me some fiction, throw in some Stephen King or Dean  Koontz and hello best friend.
-      Lately, I am invested in African authored books.
+      Lately, I am invested in African authored books._
  
 
 
