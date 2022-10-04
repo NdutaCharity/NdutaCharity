@@ -7,7 +7,7 @@ A Geospatial Engineer and Data Analyst.
 Having being in the geospatial field for 5 years with skillsets raging from engineering survey to remote sensing, I pride myself of having excellent practical knowledge on geospatial data collection, management, analysis and visualization.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [NdutaCharity] (https://ndutacharity.github.io/) & (http://spatialnode.net/ndutacharity)
+* 🖥️  See my portfolio at [NdutaCharity](https://ndutacharity.github.io/) & (http://spatialnode.net/ndutacharity)
 * ✉️  You can contact me at [ndutacharityn@gmail.com](mailto:ndutacharityn@gmail.com)
 * 🧠  I'm learning Full Stack and GIS web development
 * 🤝  I'm open to collaborating on Geospatial engineering and data analysis, GIS web development, Earth Observation, Research and Surveying
