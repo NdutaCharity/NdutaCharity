@@ -22,18 +22,25 @@ src="https://img.shields.io/twitter/follow/CharityN_N?logo=twitter&style=for-the
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/NdutaCharity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/charity-n-8935749a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/CharityN_N" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/NdutaCharity" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>    <a href="https://www.linkedin.com/in/charity-n-8935749a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>    <a href="https://www.twitter.com/CharityN_N" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -41,11 +48,10 @@ src="https://img.shields.io/twitter/follow/CharityN_N?logo=twitter&style=for-the
 
 <a href="http://www.github.com/NdutaCharity"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NdutaCharity&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
                            
-   ###    💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+  ###    💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
+  
    
-   ###    
-   
-  ##    ⚙ Currently levelling up my skills and :muscle: Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/)
+  ###    ⚙ Currently levelling up my skills and :muscle: Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/)
 
           🛠 SQL for queries
           🛠 Excel
@@ -53,8 +59,6 @@ src="https://img.shields.io/twitter/follow/CharityN_N?logo=twitter&style=for-the
           🛠 Python and R
           🛠 Earth Observation
            
-
- 
 
   ## Languages and Tools:
   
