@@ -43,9 +43,9 @@ src="https://img.shields.io/twitter/follow/CharityN_N?logo=twitter&style=for-the
                            
    ###    💻 Enrolled in the **ALX Software Engineering Programme, Cohort 5**
    
-   ###    :muscle: Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/) skills here.
+   ###    
    
-  ##    ⚙ Currently levelling up my skills in:
+  ##    ⚙ Currently levelling up my skills and :muscle: Flexing my [Data Analytics](https://github.com/NdutaCharity/Data_Analytics/)
 
           🛠 SQL for queries
           🛠 Excel
