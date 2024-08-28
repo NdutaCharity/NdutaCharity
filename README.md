@@ -11,7 +11,7 @@ Having being in the geospatial field for 5 years with skillsets ranging from eng
 * ✉️  You can contact me at [ndutacharityn@gmail.com](mailto:ndutacharityn@gmail.com)
 * 🧠  I'm learning Full Stack and GIS web development
 * 🤝  I'm open to collaborating on Geospatial engineering and data analysis, GIS web development, Earth Observation, Research and Surveying
-* ⚡  Fun Fact : When not dealing with data and maps (which I really enjoy), I am either hiking, being in nature or reading. I love me some fiction, throw in some Stephen King or Dean Koontz and hello best friend. Lately, I am invested in African authored books.
+
 
 <a href="https://www.twitter.com/CharityN_N" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CharityN_N?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
